@@ -77,14 +77,14 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Serkan Bayraktaroğlu"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Design Researcher & Lecturer"
   location         :
   employer         :
   pubmed           :
@@ -109,7 +109,7 @@ author:
   linkedin         : "serkan-bayraktaroğlu-15470014/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
