@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup>
+<sup></sup>
 
 
 ## Articles
