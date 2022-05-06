@@ -17,7 +17,7 @@ author_profile: true
 
 <sup>*</sup> Equal authorship
 
-
+--
 **Articles**
 
 •	**Bridging roles of social innovations in rural development: craft initiatives from Kutch, India.** Bayraktaroğlu, S. (2020). Journal of Design for Resilience in Architecture and Planning, 1(1), 103–118. https://doi.org/10.47818/DRArch.2020.v1i1007
@@ -26,7 +26,7 @@ author_profile: true
 
 •	**Bir Sürdürülebilir Kalkınma Pratiği Olarak Yavaş Şehirler Hareketi İçin Tasarım (Design for Slow Cities Movement as a Sustainable Development Practice)** Narter Ç.,Bayraktaroğlu S. (2012). Panorama, 1(7), 54-57. 
 
-
+--
 **Book Chapters**
 
 •	**Actors of rural innovation: Bamboo craft initiatives from Northeast India**, Bayraktaroğlu S. in: Rural Areas: An Overview, L. S. Andersen, Editor, NOVA Science Publishers Inc. , New York, pp.145-191, 2020
@@ -37,7 +37,7 @@ author_profile: true
 
 •	**Responding the Industry’s Request for Design Knowledge: Reflections of a private educational initiative from Turkey** Coşkun Orlandi A. E., Bayraktaroğlu S. in: Pioneering Minds Worldwide On the Entrepreneurial Principles of the Cultural and Creative Industries, GIEP HAGOORT, AUKJE THOMASSEN, RENE KOOYMAN, Editor, Eburon Publishers, 2012, ISBN:9789059726192
 
-
+--
 **Proceedings**
 
 •	**Identifying the contribution of design to the safeguarding intangible cultural heritage:A Systematic Literature Review** Bayraktaroğlu, S. 10th International Conference on Business, Technology and Innovation 2021, Pristine, Kosovo, 29-30 October 2021, pp.331 
