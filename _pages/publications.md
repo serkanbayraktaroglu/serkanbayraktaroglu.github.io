@@ -16,3 +16,38 @@ author_profile: true
 {% endfor %}
 
 <sup>*</sup> Equal authorship
+
+
+Articles
+
+•	Bridging roles of social innovations in rural development: craft initiatives from Kutch, India. 
+Bayraktaroğlu, S. (2020). Journal of Design for Resilience in Architecture and Planning, 1(1), 103–118. https://doi.org/10.47818/DRArch.2020.v1i1007
+•	Sosyal Yenileşim ve Tasarımın Değişen Rolleri (Social Innovation and the Changing Roles of Design). 
+Bayraktaroğlu S.,Şatir S., Akgün A. A. (2014). Tasarım + Kuram, 10(18), 36-52. 
+•	 Bir Sürdürülebilir Kalkınma Pratiği Olarak Yavaş Şehirler Hareketi İçin Tasarım (Design for Slow Cities Movement as a Sustainable Development Practice) Narter Ç.,Bayraktaroğlu S. (2012). Panorama, 1(7), 54-57. 
+
+
+Book Chapters
+
+•	Actors of rural innovation: Bamboo craft initiatives from Northeast India, Bayraktaroğlu S.
+in: Rural Areas: An Overview, L. S. Andersen, Editor, NOVA Science Publishers Inc. , New York, pp.145-191, 2020
+•	Döngüsel Tasarımın Yükselişi ve Sınırları (Rise of Circular Design and Its Limits) Bayraktaroğlu S.
+in: İyi Tasarım 'Döngü', Emre Gönlügür,Aren emre Kurtgözü, Editor, İzmir Akdeniz Akademisi, İzmir, pp.52-59, 2020
+•	Framing Violence: Conflicting Images, Identities, And Discourses, Chapter: (Identifying Social Aspects Of Terrorism On Human Behavior With A Design Point Of View: Form Follows Fear) (2016)., Bayraktaroğlu S., Narter Ç., Cambridge Scholars Publishing, Edited by: Banu Baybars Hawks, ISBN:978-1-4438-9948-2
+•	Pioneering Minds Worldwide On the Entrepreneurial Principles of the Cultural and Creative Industries, Chapter:(Responding the Industry’s Request for Design Knowledge: Reflections of a private educational initiative from Turkey) (2012)., Coşkun Orlandi A. E., Bayraktaroğlu S., Eburon Publishers, Editor: GIEP HAGOORT, AUKJE THOMASSEN, RENE KOOYMAN, ISBN:9789059726192
+
+
+Proceedings
+
+•	Identifying the contribution of design to the safeguarding intangible cultural heritage:A Systematic Literature Review Bayraktaroğlu, S. 10th International Conference on Business, Technology and Innovation 2021, Pristine, Kosovo, 29-30 October 2021, pp.331 
+•	Development of an Interdisciplinary Master's Degree in City  and Children Studies Bayraktaroğlu, S. 
+9th International Conferenceon Business, Technology and Innovation 2020, Pristine, Kosovo, 30-31 October 2020, pp.251 
+•	Design for repair as a strategy to foster sustainable user behavior: a case of undergraduate product
+Design studio Bayraktaroğlu S. 8th International Conference on Business, Technology and Innovation, Pristine, Kosovo, 26-28 October 2019, pp.64-68
+•	Social Aspects of Terrorism and Human Behavior Form Follows Fear in Design. Narter Ç., Bayraktaroğlu S. (2015). 4th International Conference on Conflict, Terror and Society, 20-20.
+•	Transportation design in the context of Slow City Movement for Sustainable Development (In Turkish) Narter Ç.,Bayraktaroğlu S. (2012)., Green Age Symposium II, 542-549. 
+•	A traditional Craftmanship Organisation Model for Sustainable Development of Modern Clusters Bayraktaroğlu S.(2011). International Symposium on Sustainable Design III, 16-26. 
+•	Engaging Strategic Design to Undergraduate Design Education A case Study in Sishane Istanbul Sustainability of Networks for Local Developments. Bayraktaroğlu S.,Özkaynak M. (2011). International Symposium on Sustainable Design III, 27-35.
+•	Sustainability of design and Eco Holiday Project. Şatir S., Bayraktaroğlu S. (2010). LeNS Conference: Sustainability in Design: Now! Challenges and Opportunities for Design Research,Education and Practice in the XXI Century, 2, 1422-1430.
+•	Overcoming barriers to adopt Product Service Systems PSS. Bayraktaroğlu S., Bayazıt N. (2010). LeNS Conference: Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century., 2, 1234-1241. 
+
