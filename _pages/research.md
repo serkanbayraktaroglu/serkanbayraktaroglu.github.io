@@ -7,27 +7,16 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My academic research mainly falls in the area of understanding and developing the role of design in societal challanges of sustainablity. 
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+During early phases of my academic life, I was more interested in sustainable development specifically in the scope of rural areas. I have studied endegenous development theories, rural entrepreneurship, craft practice and business models during my Ph.D. research. I spent six months in India for identifying the outcomes social innovation and craft oriented development projects mainly held by NID; and used mapping tools for illustrating the impact of decades old design interventions. 
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+I am interested in sustainable product service systems as a research field but also we have developed an undergraduate course at Kadir Has Unviersity called "Strategic Design" which focuses on systemic urban interventions for sustainablity. 
+
+In the scope of City and Children Studies, I am interested in design of public services, and development of inclusive tools for constructive design research. 
+
+Recently my focus on sustainablity has shifted more into circular design and design for repair and upgrade. Specifically, I am interested in repair as a creative practice, DIY repair and its influence in product-user relationship, and brand identity. Moreover, I am interested in circualar business models employing repair and upgrade as an essential domain.
+
 
 <nbsp>
 
