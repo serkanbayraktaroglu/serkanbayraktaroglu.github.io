@@ -18,11 +18,6 @@ header:
   og_image: "software/spatial_weighting.png"
 ---
 
-Aporpeorpskldfnskle
-
-# Bayraktarogluuu şurudurnuhrngkl
-
-
 
 ## Talks
 
