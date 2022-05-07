@@ -11,17 +11,18 @@ As such, studio courses i have instructed range from traditional product design 
 
 Semester long design project involving user research, design and development of products and services. 
 
-- Design studios with sustainablity themes
-. Design for Slow Cities 1 - Seferihisar  (2011) Graduation Project: Sustainable transportation solutions aiming to support locals in their daily tasks.
-. Design for Slow Cities 2 - Taraklı (2012) Graduation Project : Examining endonegous development opportunities the town and designing product service systems for fostering sustainablity.
-. Design for Personal and Public Health (2013) Design Studio V: In cooperation with Basaksehir LivingLab, product and service designs aiming to improve public and personal health.
-. Hybrid Relationships with Plants (2014) Design Studio II: Near future scenarios based on enhanced use of plants as a part of product design aiming to improve life quality and overcome future enviropnemental problems in urban such as lack of clean air, drinkable water and fresh food etc.
-. Design for Refugees (2016) Design Studio IV - V: In coperation with an Istanbul based NGO "Small Projects Istanbul", the project brief focused on examination of problems of Syrian refugees and obstacles encountered at the NGO's services; and delivering product designs. 
+***Design studios with sustainablity themes***
 
-- Industrial partnerships
+- Design for Slow Cities 1 - Seferihisar  (2011) Graduation Project: Sustainable transportation solutions aiming to support locals in their daily tasks.
+- Design for Slow Cities 2 - Taraklı (2012) Graduation Project : Examining endonegous development opportunities the town and designing product service systems for fostering sustainablity.
+- Design for Personal and Public Health (2013) Design Studio V: In cooperation with Basaksehir LivingLab, product and service designs aiming to improve public and personal health.
+- Hybrid Relationships with Plants (2014) Design Studio II: Near future scenarios based on enhanced use of plants as a part of product design aiming to improve life quality and overcome future enviropnemental problems in urban such as lack of clean air, drinkable water and fresh food etc.
+- Design for Refugees (2016) Design Studio IV - V: In coperation with an Istanbul based NGO "Small Projects Istanbul", the project brief focused on examination of problems of Syrian refugees and obstacles encountered at the NGO's services; and delivering product designs. 
 
-Design of Upright Water Filter Vacuum Cleaner for Sinbo: Graduation Project
-Stapler Gun Design for Furniture Industry
+***Industrial partnerships***
+
+- Design of Upright Water Filter Vacuum Cleaner for Sinbo: Graduation Project
+- Stapler Gun Design for Furniture Industry
 
 
 ##  Undergraduate Courses
