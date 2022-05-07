@@ -1,6 +1,6 @@
 ---
 permalink: /software/
-title: "Talks, Workshops, Exhibitions"
+title: "Talks, Workshops and Exhibitions"
 gallery:
   - url: software/table.png
     image_path: software/table.png
