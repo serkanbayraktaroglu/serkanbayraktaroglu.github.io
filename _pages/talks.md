@@ -1,5 +1,5 @@
 ---
-permalink: /software/
+permalink: /talks/
 title: "Talks, Workshops and Exhibitions"
 gallery:
   - url: software/table.png
