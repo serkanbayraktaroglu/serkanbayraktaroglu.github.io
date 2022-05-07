@@ -21,6 +21,9 @@ author_profile: true
 ## Articles
 
 -	**Bridging roles of social innovations in rural development: craft initiatives from Kutch, India.** Bayraktaroğlu, S. (2020). Journal of Design for Resilience in Architecture and Planning, 1(1), 103–118. https://doi.org/10.47818/DRArch.2020.v1i1007
+paperurl: '/files/pdf/research/BayesPostEst.pdf'
+
+deneme 
 
 -	**Sosyal Yenileşim ve Tasarımın Değişen Rolleri (Social Innovation and the Changing Roles of Design).** Bayraktaroğlu S.,Şatir S., Akgün A. A. (2014). Tasarım + Kuram, 10(18), 36-52. 
 
