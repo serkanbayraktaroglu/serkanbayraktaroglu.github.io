@@ -20,7 +20,7 @@ header:
 
 Aporpeorpskldfnskle
 
-# BayesPostEst
+# Bayraktarogluuu
 
 [![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
