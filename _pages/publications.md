@@ -25,7 +25,8 @@ author_profile: true
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
 ---
 
-deneme 
+[deneme](/files/pdf/research/BayesPostEst.pdf)
+
 
 -	**Sosyal Yenileşim ve Tasarımın Değişen Rolleri (Social Innovation and the Changing Roles of Design).** Bayraktaroğlu S.,Şatir S., Akgün A. A. (2014). Tasarım + Kuram, 10(18), 36-52. 
 
