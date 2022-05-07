@@ -20,21 +20,21 @@ author_profile: true
 
 ## Articles
 
--	**Bridging roles of social innovations in rural development: craft initiatives from Kutch, India.** Bayraktaroğlu, S. (2020). Journal of Design for Resilience in Architecture and Planning, 1(1), 103–118.[pdf](/files/pdf/Pubpdf/A1/A1.1DRARCH.pdf)
+-	**Bridging roles of social innovations in rural development: craft initiatives from Kutch, India.** Bayraktaroğlu, S. (2020). Journal of Design for Resilience in Architecture and Planning, 1(1), 103–118.[pdf](/files/pdf/A1/A1.1DRARCH.pdf)
 
--	**Sosyal Yenileşim ve Tasarımın Değişen Rolleri (Social Innovation and the Changing Roles of Design).** Bayraktaroğlu S.,Şatir S., Akgün A. A. (2014). Tasarım + Kuram, 10(18), 36-52. [pdf](/files/pdf/Pubpdf/B3a/A3a.3_tasarim_kuram1.pdf)
+-	**Sosyal Yenileşim ve Tasarımın Değişen Rolleri (Social Innovation and the Changing Roles of Design).** Bayraktaroğlu S.,Şatir S., Akgün A. A. (2014). Tasarım + Kuram, 10(18), 36-52. [pdf](/files/pdf/B3a/A3a.3_tasarim_kuram1.pdf)
 
 -	**Bir Sürdürülebilir Kalkınma Pratiği Olarak Yavaş Şehirler Hareketi İçin Tasarım (Design for Slow Cities Movement as a Sustainable Development Practice)** Narter Ç.,Bayraktaroğlu S. (2012). Panorama, 1(7), 54-57. 
 
 ## Book Chapters
 
--	**Actors of rural innovation: Bamboo craft initiatives from Northeast India**, Bayraktaroğlu S. in: Rural Areas: An Overview, L. S. Andersen, Editor, NOVA Science Publishers Inc. , New York, pp.145-191, 2020 [pdf](/files/pdf/Pubpdf/A2/A2.1.1_Actors.pdf)
+-	**Actors of rural innovation: Bamboo craft initiatives from Northeast India**, Bayraktaroğlu S. in: Rural Areas: An Overview, L. S. Andersen, Editor, NOVA Science Publishers Inc. , New York, pp.145-191, 2020 [pdf](/files/pdf/A2/A2.1.1_Actors.pdf)
 
--	**Döngüsel Tasarımın Yükselişi ve Sınırları (Rise of Circular Design and Its Limits)** Bayraktaroğlu S. in: İyi Tasarım 'Döngü', Emre Gönlügür, Aren Emre Kurtgözü, Editor, İzmir Akdeniz Akademisi, İzmir, pp.52-59, 2020 [pdf](/files/pdf/Pubpdf/A2/A.2.2_FraminViolence.pdf)
+-	**Döngüsel Tasarımın Yükselişi ve Sınırları (Rise of Circular Design and Its Limits)** Bayraktaroğlu S. in: İyi Tasarım 'Döngü', Emre Gönlügür, Aren Emre Kurtgözü, Editor, İzmir Akdeniz Akademisi, İzmir, pp.52-59, 2020 [pdf](/files/pdf/A2/A.2.2_FraminViolence.pdf)
 
--	**Identifying Social Aspects Of Terrorism On Human Behavior With A Design Point Of View: Form Follows Fear** Bayraktaroğlu S., Narter Ç. in: Framing Violence: Conflicting Images, Identities, And Discourses, Banu Baybars Hawks, Editor, Cambridge Scholars Publishing, 2016 ISBN:978-1-4438-9948-2 [pdf](/files/pdf/Pubpdf/A2/A.2.4_DonguselTasarim.pdf)
+-	**Identifying Social Aspects Of Terrorism On Human Behavior With A Design Point Of View: Form Follows Fear** Bayraktaroğlu S., Narter Ç. in: Framing Violence: Conflicting Images, Identities, And Discourses, Banu Baybars Hawks, Editor, Cambridge Scholars Publishing, 2016 ISBN:978-1-4438-9948-2 [pdf](/files/pdf/A2/A.2.4_DonguselTasarim.pdf)
 
--	**Responding the Industry’s Request for Design Knowledge: Reflections of a private educational initiative from Turkey** Coşkun Orlandi A. E., Bayraktaroğlu S. in: Pioneering Minds Worldwide On the Entrepreneurial Principles of the Cultural and Creative Industries, GIEP HAGOORT, AUKJE THOMASSEN, RENE KOOYMAN, Editor, Eburon Publishers, 2012, ISBN:9789059726192 [pdf](/files/pdf/Pubpdf/A2/A.2.3_PioneeringMinds.pdf)
+-	**Responding the Industry’s Request for Design Knowledge: Reflections of a private educational initiative from Turkey** Coşkun Orlandi A. E., Bayraktaroğlu S. in: Pioneering Minds Worldwide On the Entrepreneurial Principles of the Cultural and Creative Industries, GIEP HAGOORT, AUKJE THOMASSEN, RENE KOOYMAN, Editor, Eburon Publishers, 2012, ISBN:9789059726192 [pdf](/files/pdf/A2/A.2.3_PioneeringMinds.pdf)
 
 ## Proceedings
 
