@@ -14,5 +14,5 @@ Since 2010 I’ve been teaching numerous undergraduate and graduate level theore
 
 In collarobation with national and international partners including Bernard van Leer Foundation, Superpool Architecture and local municipalities of Istanbul I have coordinated the establishment of "City and Children Studies MA" in 2018 at Kadir Has University. Additionally I have coordinated the Design for Social Innovation and Strategic Design tracks under the Design MA between 2016-2020.
 
-Since 2020 I've been working at Istanbul University, Industrial Design Department and while lecturing in graduate and undergraduate level courses, I develop my researches in design for repair and circcular design. 
+Since 2020 I've been working at Istanbul University, Industrial Design Department and while lecturing in graduate and undergraduate level courses, I develop my researches in design for repair and circular design. 
 
