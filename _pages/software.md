@@ -28,7 +28,7 @@ Aporpeorpskldfnskle
 
 - **Constructive Design Research**, Design MA Seminars, Kadir Has University, Istanbul Turkey (21 April 2022)
 - Systems Thinking and Legal Design, Legal Design Conference, Kadir Has University, Istanbul, Turkey (4 May 2021) https://www.youtube.com/watch?v=22bgO8AYAi4
-- **[Craft and Design](https://www.youtube.com/watch?v=h7L9XQY3e4o)**, Beyazit Seminars, Istanbul University, Turkey (13 january 2021) 
+- [Craft and Design](https://www.youtube.com/watch?v=h7L9XQY3e4o), Beyazit Seminars, Istanbul University, Turkey (13 january 2021) 
 - Edge Impact: Contemporary Interactions between Craft and Design, The Design Summit, Bursa, Turkey (25,26 November 2016)
 - Ergonomics and Product Design, 21st Congress of Ergonomics, Isparta, Turkey, (2 October 2015)
 - Design and Local Development Models, Innovation and Design Summit, Bursa, Turkey, (29 May 2015)
