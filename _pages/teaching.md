@@ -3,38 +3,40 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+Since 2010, teaching has been an important element of my academic life, and research has often played a central role in my teaching. Design studio courses often form the backbone of the industrial design curriculum. My studio classes at Kadir Has University were both a platform for students to learn through design research and practice, and an opportunity to explore contemporary design issues.
+
+As such, studio courses i have instructed range from traditional product design and development processes to conceptual designs. In line with my research area, I have often shaped design studios under the themes of sustainability.
+
+##  Design Studio Courses and Graduation Projects
+
+Semester long design project involving user research, design and development of products and services. 
+
+- Design studios with sustainablity themes
+
+Ornek
+- Industrial partnerships
+Ornek 2
+
+- Traditional design studios
+Ornek 3
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+##  Undergraduate Courses
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+- **Design Research**: Introducing constructive design research methods.
+- **Systems Thinking**: Introducing systems thinking and analysis tools to design students.
+- **Sustainability in Industrial Design**: Introduction to sustainability issues and sustainable design tools and methods.  
+- **Strategic Design**: Design of Product Service Systems aiming urban interventions.
+- **Design Innovation and Product Strategies**: Innovation theory, company strategies and design innovation process.
+- **Marketing for Industrial Designers**: Fundamentals of marketing notions for industrial designers
+- **Principles and Processes of Industrial Design**: Various Approaches of Industrial Design Process, tools and techniques
+- **Materials and Manufacturing Techniques**: Introduction to materials and manufacturing techniques, use of material selection tools.
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+
+##  Graduate Courses
+
+- **Design for Social Innovation**: 
+- **Design and Society**:
+- 
+
