@@ -23,7 +23,7 @@ Semester long design project involving user research, design and development of 
 
 - Design of Upright Water Filter Vacuum Cleaner for Sinbo (Graduation Project)
 - Stapler Gun Design for Furniture Industry
-- Viko - Extention Cable Design
+- Viko - Extention Cable Design [busayfa](/_drafts/spatial-modeling.md)
 
 
 ##  Undergraduate Courses
