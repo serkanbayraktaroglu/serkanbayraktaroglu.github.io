@@ -18,6 +18,8 @@ Semester long design project involving user research, design and development of 
 - Design for Personal and Public Health (2013) Design Studio V: In cooperation with Basaksehir LivingLab, product and service designs aiming to improve public and personal health.
 - Plants in near future urban life (2014) Design Studio II: Near future scenarios based on enhanced use of plants as a part of product design aiming to improve life quality and overcome future enviropnemental problems in urban such as lack of clean air, drinkable water and fresh food etc.
 - Design for Refugees (2016) Design Studio IV - V: In coperation with an Istanbul based NGO "Small Projects Istanbul", the project brief focused on examination of problems of Syrian refugees and obstacles encountered at the NGO's services; and delivering product designs. 
+- Frugal Innovation: Design for K-12 Level Educaiton – Product Design Studio IV (2017)
+- Urban Food Cycle with a Circular Design Perspective (2018)
 
 ***Industrial partnerships***
 
