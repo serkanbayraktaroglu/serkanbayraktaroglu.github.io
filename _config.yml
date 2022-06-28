@@ -48,6 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+  
+
 
 # SEO Related
 google_site_verification :UioIpCosE23vit6evKqJCW4wWOEAG1BcmLQQ_I1yDKs
@@ -257,7 +259,9 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+gems:
+  - jekyll-sitemap
+  
 # Plugins
 plugins:
   - jekyll-paginate
