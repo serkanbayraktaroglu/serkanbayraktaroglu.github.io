@@ -14,7 +14,7 @@ Semester long design project involving user research, design and development of 
 ***Design studios with sustainablity themes***
 
 - Design for Slow Cities ert 1 - Seferihisar  (2011) Graduation Project: Sustainable transportation solutions aiming to support locals in their daily tasks.
-[examples](/studio1)
+[examples](/studio/studio1)
 - Design for Slow Cities 2 - Taraklı (2012) Graduation Project : Examining endonegous development opportunities the town and designing product service systems for fostering sustainablity.
 - Design for Personal and Public Health (2013) Design Studio V: In cooperation with Basaksehir LivingLab, product and service designs aiming to improve public and personal health.
 - Plants in near future urban life (2014) Design Studio II: Near future scenarios based on enhanced use of plants as a part of product design aiming to improve life quality and overcome future enviropnemental problems in urban such as lack of clean air, drinkable water and fresh food etc.
