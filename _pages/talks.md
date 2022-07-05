@@ -21,7 +21,7 @@ header:
 
 ## Talks
 
-- **Constructive Design Research**, Design MA Seminars, Kadir Has University, Istanbul Turkey (21 April 2022)
+- **Constructive Designo Research**, Design MA Seminars, Kadir Has University, Istanbul Turkey (21 April 2022)
 - [Systems Thinking and Legal Design](https://www.youtube.com/watch?v=22bgO8AYAi4), Legal Design Conference, Kadir Has University, Istanbul, Turkey (4 May 2021) 
 - [Role of Design in Rural Development](https://www.youtube.com/watch?v=h7L9XQY3e4o), Beyazit Seminars, Istanbul University, Turkey (13 january 2021) 
 - **Edge Impact: Contemporary Interactions between Craft and Design**, The Design Summit, Bursa, Turkey (25,26 November 2016)
