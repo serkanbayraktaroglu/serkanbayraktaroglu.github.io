@@ -28,7 +28,7 @@ Semester long design project involving user research, design and development of 
 - Stapler Gun Design for Furniture Industry
 - Viko - Extention Cable Design [deneme](/pdp.png)
 [yeni](images/teaching/pdp.png)
-[burdan örneklere bak] [teaching amterial](/taching-materials)
+[burdan örneklere bak] [teaching amterial](/teaching-materials)
 
 ##  Undergraduate Courses
 
