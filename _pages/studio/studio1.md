@@ -2,12 +2,12 @@
 permalink: /studio1/
 title: "Graduation Studio: Design for Slow Cities Seferihisar"
 gallery:
-  - url: studio1/biketaxi.jpg
-    image_path: studio1/biketaxi.jpg
+  - url: studio1/biketaxi.png
+    image_path: studio1/biketaxi.png
     alt: "Bcycle Taxi by Osman Şahin"
     title: "Bcycle Taxi by Osman Şahin"
-  - url: studio1/circle_sale.jpg
-    image_path: studio1/circle_sale.jpg
+  - url: studio1/circle_sale.png
+    image_path: studio1/circle_sale.png
     alt: "Bagel Sale Bicycle by Ahsen Başbuğ"
     title: "Bagel Sale Bicycle by Ahsen Başbuğ"
   - url: studio1/equal.jpg
