@@ -18,7 +18,7 @@ gallery:
     image_path: studio1/olive.jpg
     alt: "Olive Bcycle by Arda Dalay"
     title: "Olive Bcycle by Arda Dalay"
-  - url: studio1/olive.jpg
+  - url: studio1/slowsale.jpg
     image_path: studio1/slowsale.jpg
     alt: "Slowsale Open Bazaar Sale Bike by Ayşe Çeşmeci"
     title: "Slowsale Open Bazaar Sale Bike by Ayşe Çeşmeci"
