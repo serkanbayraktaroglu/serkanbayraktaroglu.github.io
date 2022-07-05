@@ -26,8 +26,8 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
+In 2010, Seferihisar, a small seaside town in Izmir, qualified to be Turkey's first Slow City (or CittaSlow). I always find it crucial to link local and global in terms of sustainable development. And slow cities are like living laboratories for such experiements. Thus, in 2011, we wanted to explore the 'slow design' principles for the slow city together with the graduation project students of KHas University. As a result of the short visits and researches we made at the town, students designed vehicles suitable for the calm city for both the personal mobility of the local people who make a living with tourism and agriculture, as well as the mobility of food.
 
-Graduation project seferihisar was about transportaiton of people in slow city, about food, and etc.
 
 
 {% include gallery %}
