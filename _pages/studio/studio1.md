@@ -29,7 +29,6 @@ header:
 ---
 
 
-[yeni](images/teaching/pdp.png)
 Graduation project seferihisar was about transportaiton of people in slow city, about food, and etc.
 
 
