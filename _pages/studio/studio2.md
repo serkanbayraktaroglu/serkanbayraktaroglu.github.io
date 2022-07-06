@@ -1,35 +1,7 @@
 ---
 permalink: /studio2/
 title: "Graduation Studio: Design for Slow Cities Tarakli"
-gallery:
-  - url: studio1/tarakli_syllabus.png
-    image_path: studio1/tarakli_syllabus.png
-    alt: "Sylalbus"
-    title: "Syllabus"
-  - url: studio1/basa1.png
-    image_path: studio1/basa1.png
-    alt: "Basa- Compact Composting by Açelya Altıntaş"
-    title: "Basa- Compact Composting by Açelya Altıntaş"
-  - url: studio1/basa2.png
-    image_path: studio1/basa2.png
-    alt: "Basa- Compact Composting by Açelya Altıntaş"
-    title: "Basa- Compact Composting by Açelya Altıntaş"
-  - url: studio1/basa3.png
-    image_path: studio1/basa3.png
-    alt: "Basa- Compact Composting by Açelya Altıntaş"
-    title: "Basa- Compact Composting by Açelya Altıntaş"
-  - url: studio1/basa4.png
-    image_path: studio1/basa4.png
-    alt: "Basa- Compact Composting by Açelya Altıntaş"
-    title: "Basa- Compact Composting by Açelya Altıntaş"
-   - url: studio1/Eko_Egitim.png
-    image_path: studio1/Eko_Egitim.png
-    alt: "Eko-Egitim- Gardening and compost as an educative tool for primary school by Orkun Tekeli"
-    title: "Eko-Egitim- Gardening and compost as an educative tool for primary school by Orkun Tekeli"
-  - url: studio1/co.jpg
-    image_path: studio1/co.jpg
-    alt: "Product design and Business model of introducing Gypsophila as a detergent for urban consumers by Melda Yanmaz"
-    title: "Product design and Business model of introducing Gypsophila as a detergent for urban consumers by Melda Yanmaz"
+
 header: 
   og_image: "teaching/pdp.png"
 ---
