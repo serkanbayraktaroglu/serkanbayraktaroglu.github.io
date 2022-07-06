@@ -2,24 +2,24 @@
 permalink: /studio5/
 title: "Design Studio: Design for Refugeesr"
 gallery:
-  - url: studio5/buse.png
-    image_path: studio5/buse.png
+  - url: studio5/Buse.png
+    image_path: studio5/Buse.png
     alt: "Chain by Buse Rodoplu"
     title: "Chain by Buse Rodoplu"
-  - url: studio5/valerie.png
-    image_path: studio5/valerie.png
+  - url: studio5/Valerie.png
+    image_path: studio5/Valerie.png
     alt: "Inserted Space by Valerie Daude"
     title: "Inserted Space by Valerie Daude"
-  - url: studio5/ceren.png
-    image_path: studio5/ceren.png
+  - url: studio5/Ceren.png
+    image_path: studio5/Ceren.png
     alt: "Thermowatch by Ceren Demirkol"
     title: "Thermowatch by Ceren Demirkol"
-  - url: studio5/gokce.png
-    image_path: studio5/gokce.png
+  - url: studio5/Gokce.png
+    image_path: studio5/Gokce.png
     alt: "Jo by Gökçe Göbüt"
     title: "Jo by Gökçe Göbüt"
-  - url: studio5/nilgun.png
-    image_path: studio5/nilgun.png
+  - url: studio5/Nilgun.png
+    image_path: studio5/Nilgun.png
     alt: "Faleq by Nilgün Özaygün"
     title: "Faleq by Nilgün Özaygün"
 
