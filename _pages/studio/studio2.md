@@ -1,7 +1,10 @@
 ---
 permalink: /studio2/
 title: "Graduation Studio: Design for Slow Cities Tarakli"
-
+- url: studio1/biketaxi.png
+    image_path: studio1/biketaxi.png
+    alt: "Bcycle Taxi by Osman Şahin"
+    title: "Bcycle Taxi by Osman Şahin"
 header: 
   og_image: "teaching/pdp.png"
 ---
