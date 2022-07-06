@@ -13,7 +13,7 @@ In the early stages of my academic life, I was more interested in sustainable de
 
 Since my early studies, I have been interested in sustainable product service systems as a research area. System analysis tools and the design of processes have always intrigued me. During industrial design studios, I guided many students to adopt PSS perspectives. We also developed an undergraduate course at Kadir Has University called "Strategic Design", which focuses on systemic urban interventions using PSS.
 
-The City and Child studies curriculum was designed with the collaboration of national and international experts as a study field that combines issues of design, urban planning, political studies and psychology. Our aim was to explore transdisciplinary issues among these different disciplines, considering the needs of children and caregivers in the city. In this field of study, I am interested in design of public services,  examining social impacts of urban interventions, and developing methods and tools for participatory design processes involving children and caregivers.
+[The City and Child Studies](/cityandchildren) curriculum was designed with the collaboration of national and international experts as a study field that combines issues of design, urban planning, political studies and psychology. Our aim was to explore transdisciplinary issues among these different disciplines, considering the needs of children and caregivers in the city. In this field of study, I am interested in design of public services,  examining social impacts of urban interventions, and developing methods and tools for participatory design processes involving children and caregivers.
 [City and Children Studies Blog](https://city-and-children-studies.tumblr.com/)
 
 
