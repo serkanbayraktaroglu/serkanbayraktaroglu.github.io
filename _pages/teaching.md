@@ -47,5 +47,5 @@ The graduation project has also inspired me and my colleague Cinar Narter for [a
 - **Design for Social Innovation**: The course aims to support students with necessary tools for the development of new and innovative solutions for unmet social needs by linking academic practice to market realities and available resources. The course uses both literature and cases investigates interwoven notions of social entrepreneurship, social innovation and design so that students develop an in-depth understanding of the interaction between theory and practice. Another purpose of the course is students to develop an academic article and/or tangible or intangible outcomes involving or representing their proposal.
 - **Design and Society**: The course introduces the main challenges and obstacles of today's social issues through and their relations with the act of design. The objective of the course is to gain a general understanding of the roles and responsibilities of design in societal issues.
 
-![](/images/software/spatial_weighting.png)
+
 
