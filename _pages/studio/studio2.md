@@ -2,9 +2,9 @@
 permalink: /studio2/
 title: "Graduation Studio: Design for Slow Cities Tarakli"
 - url: studio2/co.png
-    image_path: studio2/co.png
-    alt: "Co by Melda Yanmaz"
-    title: "Co by Melda Yanmaz"
+  image_path: studio2/co.png
+  alt: "Co by Melda Yanmaz"
+  title: "Co by Melda Yanmaz"
 header: 
   og_image: "teaching/pdp.png"
 ---
