@@ -27,7 +27,7 @@ header:
 - **Digital Story Telling Techniques for Designers**, Fablab – Istanbul, Bayraktaroğlu, S.and Demir T, (18 December 2015)
 - **Story Telling Workshop**, Başakşehir LivingLab – Istanbul, Bayraktaroğlu, S.and Coşkun G. (11 May 2015)
 -	[**Reconstructing Body**](/images/workshops/bedenbozum.jpg) – Design Thinking Workshop**, Başakşehir LivingLab – Istanbul, Bayraktaroğlu, S.and Coşkun G., (16-17 April 2015)
--	[**Craft community and Design Workshops**](craftcommunitydesign.jpg), in cooperation with Design Academy Eindhoven - Forum Department,  Istanbul, Bayraktaroğlu, S. and Dorsman, N. (7-11 December 2011, 25-29 May 2012)
+-	[**Craft community and Design Workshops**](/images/workshops/craftcommunitydesign.jpg), in cooperation with Design Academy Eindhoven - Forum Department,  Istanbul, Bayraktaroğlu, S. and Dorsman, N. (7-11 December 2011, 25-29 May 2012)
 - **Design Camp for High School Students**, Kadir Has University, Bayraktaroğlu, S.and Narter Ç. (5-9 July 2010, 27 February 2011, 18-21 July 2011, 17-19 July 2012) 
 
 
