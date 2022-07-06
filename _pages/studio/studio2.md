@@ -1,6 +1,6 @@
 ---
 permalink: /studio2/
-title: "Graduation Studio: Design for Slow Cities Taraklı"
+title: "Graduation Studio: Design for Slow Cities Tarakli"
 gallery:
   - url: studio1/tarakli_syllabus.png
     image_path: studio1/tarakli_syllabus.png
