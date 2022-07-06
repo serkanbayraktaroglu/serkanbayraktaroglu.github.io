@@ -14,7 +14,7 @@ Semester long design project involving user research, design and development of 
 ***Design studios with sustainablity themes***
 
 - [Design for Slow Cities 1](/studio1) - Seferihisar  (2011) Graduation Project: Sustainable transportation solutions aiming to support locals in their daily tasks.
-The graduation project has also inspired me and my colleague Cinar Narter for [a paper presented at a conference.](/images/3.7.6 2011 - 2012 ID 402 Syllabus.pdf)
+The graduation project has also inspired me and my colleague Cinar Narter for [a paper presented at a conference.](/images/Narter_Bayraktaroglu)
 
 - [Design for Slow Cities 2](/studio2)- Taraklı (2012) Graduation Project : Examining endonegous development opportunities the town and designing product service systems for fostering sustainablity.
 - Design for Personal and Public Health (2013) Design Studio V: In cooperation with Basaksehir LivingLab, product and service designs aiming to improve public and personal health.
