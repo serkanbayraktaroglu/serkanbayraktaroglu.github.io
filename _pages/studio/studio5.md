@@ -1,6 +1,6 @@
 ---
 permalink: /studio5/
-title: "Design Studio: Design for Refugeesr"
+title: "Design Studio: Design for Refugees"
 gallery:
   - url: studio5/Buse.png
     image_path: studio5/Buse.png
