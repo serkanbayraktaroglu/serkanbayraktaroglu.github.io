@@ -1,10 +1,28 @@
 ---
 permalink: /studio2/
 title: "Graduation Studio: Design for Slow Cities Tarakli"
+gallery:
+- url: studio2/sylalbus.png
+  image_path: studio2/syllabus.png
+  alt: "Syllabus"
+  title: "Syllabus"
+- url: studio2/Basa1.png
+  image_path: studio2/Basa1.png
+  alt: "Basa by Açelya Altıntaş"
+  title: "Basa by Açelya Altıntaş"
+- url: studio2/Basa4.png
+  image_path: studio2/Basa4.png
+  alt: "Basa by Açelya Altıntaş"
+  title: "Basa by Açelya Altıntaş"
+- url: studio2/Eko_Egitim.png
+  image_path: studio2/Eko_Egitim.png
+  alt: "Eko-Egitim by Orkun Tekeli"
+  title: "Eko-Egitim by Orkun Tekeli"
 - url: studio2/co.png
   image_path: studio2/co.png
   alt: "Co by Melda Yanmaz"
   title: "Co by Melda Yanmaz"
+  
 header: 
   og_image: "teaching/pdp.png"
 ---
