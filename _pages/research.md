@@ -7,9 +7,10 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research mainly falls in the area of understanding and developing the role of design in societal challanges of sustainablity.
+My academic research mainly falls in the area of understanding and developing the role of design in societal challenges of sustainability.
 
 In the early stages of my academic life, I was more interested in sustainable development, especially in rural areas. I believe that rural areas present both the most important challenges and opportunities for global sustainability. During my Ph.D. research, I studied endogenous development theories, rural entrepreneurship, craft practices and business models. The fieldwork of the research took about six months in India to examine seven cases illustrating the impact of design oriented development interventions, and I had the opportunity to take the guidance of valuable academics such as Prof. M.P.Ranjan from NID and Prof. Anil Gupta from IIM. The results of the case study research were threefold: (i) identifying the changing roles of design targeting sustainable development and social innovation, (ii) discussing the actor-based characteristics of rural innovation (iii) investigating the bridging roles of social innovations in rural development.
+
 
 Since my early studies, I have been interested in sustainable product service systems as a research area. System analysis tools and the design of processes have always intrigued me. During industrial design studios, I guided many students to adopt PSS perspectives. We also developed an undergraduate course at Kadir Has University called "Strategic Design", which focuses on systemic urban interventions using PSS.
 
