@@ -20,7 +20,7 @@ author_profile: true
 
 ## Articles
 
--	**Circular Economy Awareness and Motivations in the Furniture Industry: İnegöl as a Microcosm of Global South Dynamics** Bayraktaroğlu, S., Soylu, Y. (2024). Mobilya ve ahşap malzeme araştırmaları dergisi, 7(1), 38–53.[pdf](/files/pdf/A1/MAMAD24.pdf)
+-	**New Product Development Strategies for Societal Welfare: Circular Economy Perspective** Elif İ., Bayraktaroğlu S., (2024 - working paper).
 
 -	**Redefining Repair as a Value Co-Creation Process for Circular Economy: Facilitated Do-It-Yourself Repair** Bayraktaroğlu, S., Idemen, E. (2024). International Journal of Design, 18(1), 1–22.[pdf](/files/pdf/A1/IJDES.pdf)
 
@@ -32,9 +32,13 @@ author_profile: true
 
 ## Book Chapters
 
+-	**Eco-social Innovation in the context of Urban Sustainaiblity**, (in Turkish) Bayraktaroğlu S. in: Krizler ve Dönüşümler Çağında Mekânsal Araştırmalar, Gelişim Üniversitesi (Accepted for publishing) 2024
+
+-	**Eco-social Innovation in the context of Urban Sustainaiblity**, (in Turkish) Bayraktaroğlu S. in: Krizler ve Dönüşümler Çağında Mekânsal Araştırmalar, Gelişim Üniversitesi (Accepted for publishing) 2024
+
 -	**Actors of rural innovation: Bamboo craft initiatives from Northeast India**, Bayraktaroğlu S. in: Rural Areas: An Overview, L. S. Andersen, Editor, NOVA Science Publishers Inc. , New York, pp.145-191, 2020 [pdf](/files/pdf/A2/A.2.1.1_Actors.pdf)
 
--	**Döngüsel Tasarımın Yükselişi ve Sınırları (Rise of Circular Design and Its Limits)** Bayraktaroğlu S. in: İyi Tasarım 'Döngü', Emre Gönlügür, Aren Emre Kurtgözü, Editor, İzmir Akdeniz Akademisi, İzmir, pp.52-59, 2020 [pdf](/files/pdf/A2/A.2.4_DonguselTasarim.pdf)
+-	**Circular Design and Its Limits**, (in Turkish) Bayraktaroğlu S. in: İyi Tasarım 'Döngü', Emre Gönlügür, Aren Emre Kurtgözü, Editor, İzmir Akdeniz Akademisi, İzmir, pp.52-59, 2020 [pdf](/files/pdf/A2/A.2.4_DonguselTasarim.pdf)
 
 -	**Identifying Social Aspects Of Terrorism On Human Behavior With A Design Point Of View: Form Follows Fear** Bayraktaroğlu S., Narter Ç. in: Framing Violence: Conflicting Images, Identities, And Discourses, Banu Baybars Hawks, Editor, Cambridge Scholars Publishing, 2016 ISBN:978-1-4438-9948-2 [pdf](/files/pdf/A2/A.2.2_FraminViolence.pdf)
 
