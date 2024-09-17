@@ -20,6 +20,10 @@ author_profile: true
 
 ## Articles
 
+-	**Circular Economy Awareness and Motivations in the Furniture Industry: İnegöl as a Microcosm of Global South Dynamics** Bayraktaroğlu, S., Soylu, Y. (2024). Mobilya ve ahşap malzeme araştırmaları dergisi, 7(1), 38–53.[pdf](/files/pdf/A1/MAMAD24.pdf)
+
+-	**Redefining Repair as a Value Co-Creation Process for Circular Economy: Facilitated Do-It-Yourself Repair** Bayraktaroğlu, S., Idemen, E. (2024). International Journal of Design, 18(1), 1–22.[pdf](/files/pdf/A1/IJDES.pdf)
+
 -	**Bridging roles of social innovations in rural development: craft initiatives from Kutch, India.** Bayraktaroğlu, S. (2020). Journal of Design for Resilience in Architecture and Planning, 1(1), 103–118.[pdf](/files/pdf/A1/A1.1_DRARCH.pdf)
 
 -	**Sosyal Yenileşim ve Tasarımın Değişen Rolleri (Social Innovation and the Changing Roles of Design).** Bayraktaroğlu S.,Şatir S., Akgün A. A. (2014). Tasarım + Kuram, 10(18), 36-52. [pdf](/files/pdf/B3a/B3a.3_tasarim_kuram1.pdf)
