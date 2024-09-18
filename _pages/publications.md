@@ -89,3 +89,6 @@ author_profile: true
 
 - **Sustainability of Design and Eco-Holiday Project**  
   Şatir S., Bayraktaroğlu S. (2010). LeNS Conference: *Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century*, 2, 1422–1430.
+
+ - **Overcoming barriers to adopt Product Service Systems PSS.**
+   Bayraktaroğlu S., Bayazıt N. (2010). LeNS Conference: Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century., 2, 1234-1241.
