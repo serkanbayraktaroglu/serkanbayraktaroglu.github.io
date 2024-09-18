@@ -81,14 +81,8 @@ author_profile: true
 - **Transportation Design in the Context of the Slow City Movement for Sustainable Development** (in Turkish)  
   Narter Ç., Bayraktaroğlu S. (2012). Green Age Symposium II, 542–549.
 
-- **A Traditional Craftsmanship Organization Model for Sustainable Development of Modern Clusters**  
-  Bayraktaroğlu S. (2011). International Symposium on Sustainable Design III, 16–26.
-
 - **Engaging Strategic Design in Undergraduate Design Education: A Case Study in Şişhane, Istanbul**  
   Bayraktaroğlu S., Özkaynak M. (2011). International Symposium on Sustainable Design III, 27–35.
-
-- **Sustainability of Design and Eco-Holiday Project**  
-  Şatir S., Bayraktaroğlu S. (2010). LeNS Conference: *Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century*, 2, 1422–1430.
 
  - **Overcoming barriers to adopt Product Service Systems PSS.**
    Bayraktaroğlu S., Bayazıt N. (2010). LeNS Conference: Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century., 2, 1234-1241.
