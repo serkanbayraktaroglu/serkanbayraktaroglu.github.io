@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a design researcher working at the intersection of **design, innovation, business models,** and the **societal aspects of sustainability and education**. My work is driven by a commitment to advancing sustainable solutions through design.
+I am a design researcher working at the intersection of **design, innovation, business models,** and the **societal aspects of sustainability and design education**. My work is driven by a commitment to advancing sustainable solutions through design.
 
 I hold an undergraduate degree in **Industrial Engineering** and completed a dual Master's in **Industrial Design and Manufacturing** at **Dortmund Technical University** and the **University of Twente**. My Master’s thesis explored the role of communication in complex product development processes, in collaboration with **Munich Technical University** and **Audi AG**. I earned my Ph.D. in **Industrial Design** from **Istanbul Technical University**, with a thesis titled *"Investigating Design for Social Innovation Through Business Models in Rural India: A Model Proposal for Developing Countries."*
 
@@ -17,7 +17,7 @@ Since 2010, I have taught a wide range of **undergraduate and graduate courses**
 ### Key achievements:
 - In 2018, I coordinated the establishment of the [*City and Children Studies MA*](https://city-and-children-studies.tumblr.com/) program at **Kadir Has University**, in collaboration with national and international partners, including the **Bernard van Leer Foundation, Superpool Architecture,** and **local municipalities of Istanbul**.
 - From 2016 to 2020, I led the **Design for Social Innovation** and **Strategic Design** tracks in the **Design MA** program.
-- Since 2020, I have been at [**Istanbul University**](https://mimarlik.istanbul.edu.tr/en/), the oldest and largest public university in Türkiye, where I contributed to the establishment of the [Industrial Design undergraduate program](https://mimarlik.istanbul.edu.tr/en/), which welcomed its first cohort in 2023.
+- Since 2020, I have been at **Istanbul University** the oldest and largest public university in Türkiye, where I contributed to the establishment of the [Industrial Design undergraduate program](https://mimarlik.istanbul.edu.tr/en/), which welcomed its first cohort in 2023.
 
 Currently, I am engaged in research and teaching in **design for repair, circular design,** and **eco-social innovation**. My future research will focus on:
 - **Designing for the circular economy** and developing **product-service systems** for industries.
