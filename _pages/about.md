@@ -8,8 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a design researcher working in the field of sustainability, innovation and development. Following to my undergraduate education in industrial engineering, I completed Industrial Design and Manufacturing MA at Dortmund TU and Twente University. For my master thesis I studied the role of communication in complex product development processes in a project conducted by Munich TU and Audi AG. I have I earned my Ph.D. in Industrial Design from Istanbul Technical University.
-Since 2010 I’ve been teaching numerous undergraduate and graduate level theoretical and practical courses, researching about design for social innovation, social impact driven education, sustainability and circular design. I have coordinated sustainability themed design studio courses in various undergraduate levels, developed and lectured many theoretical and practical courses including; strategic design, sustainability in design, design innovation and product development, design research, materials and manufacturing techniques in design, systems thinking in design, design for social innovation.
-In collaboration with national and international partners including Bernard van Leer Foundation, Superpool Architecture and local municipalities of Istanbul I have coordinated the establishment of  ["City and Children Studies MA"](https://city-and-children-studies.tumblr.com) in 2018 at Kadir Has University. Additionally I have coordinated the Design for Social Innovation and Strategic Design tracks under the Design MA between 2016-2020.
-Since 2020 I've been working at Istanbul University, Industrial Design Department and while lecturing in graduate and undergraduate level courses, I develop my researches in design for repair and circular design.
+I am a design researcher working at the intersection of **design, innovation, business models,** and the **societal aspects of sustainability and education**. My work is driven by a commitment to advancing sustainable solutions through design.
+
+I hold an undergraduate degree in **Industrial Engineering** and completed a dual Master's in **Industrial Design and Manufacturing** at **Dortmund Technical University** and the **University of Twente**. My Master’s thesis explored the role of communication in complex product development processes, in collaboration with **Munich Technical University** and **Audi AG**. I earned my Ph.D. in **Industrial Design** from **Istanbul Technical University**, with a thesis titled *"Investigating Design for Social Innovation Through Business Models in Rural India: A Model Proposal for Developing Countries."*
+
+Since 2010, I have taught a wide range of **undergraduate and graduate courses** on product, service, and systems design. My teaching experience includes coordinating **sustainability-themed product design studios** at various levels, often in collaboration with industrial and social organizations. I have developed and delivered courses in areas such as **strategic design, sustainability in design, design innovation and product development, design research, materials and manufacturing techniques, systems thinking in design,** and **design for social innovation**.
+
+### Key achievements:
+- In 2018, I coordinated the establishment of the [*City and Children Studies MA*](https://city-and-children-studies.tumblr.com/) program at **Kadir Has University**, in collaboration with national and international partners, including the **Bernard van Leer Foundation, Superpool Architecture,** and **local municipalities of Istanbul**.
+- From 2016 to 2020, I led the **Design for Social Innovation** and **Strategic Design** tracks in the **Design MA** program.
+- Since 2020, I have been at [**Istanbul University**](https://mimarlik.istanbul.edu.tr/en/), the oldest and largest public university in Türkiye, where I contributed to the establishment of the [Industrial Design undergraduate program](https://mimarlik.istanbul.edu.tr/en/), which welcomed its first cohort in 2023.
+
+Currently, I am engaged in research and teaching in **design for repair, circular design,** and **eco-social innovation**. My future research will focus on:
+- **Designing for the circular economy** and developing **product-service systems** for industries.
+- Investigating the **social aspects of sustainability transitions**, particularly within **urban contexts**.
+- Exploring opportunities to leverage **design education** in addressing **future sustainability challenges**.
+
+By combining these areas of focus, I aim to further contribute to the development of innovative and socially impactful design solutions.
 
