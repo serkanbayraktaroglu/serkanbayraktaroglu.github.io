@@ -186,7 +186,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  engagements:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -238,10 +238,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _engagements
+  # _talks
   - scope:
       path: ""
-      type: engagements
+      type: talks
     values:
       layout: talk
       author_profile: true
