@@ -1,5 +1,5 @@
 ---
-permalink: /talks/
+permalink: /Engagements/
 title: "Talks, Workshops and Exhibitions"
 
 header:
