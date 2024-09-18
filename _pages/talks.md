@@ -48,9 +48,6 @@ header:
 -	**Unknown Craft Person Throphy** (2014), National Architecture Students Association, Ahmedabad – India (Jury Member)
 
 
-![image](https://github.com/user-attachments/assets/6211e457-a4a5-482c-a85f-95fa58da4899)
-
-
 
 
 
