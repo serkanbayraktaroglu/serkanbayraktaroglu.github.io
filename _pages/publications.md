@@ -61,6 +61,12 @@ author_profile: true
 - **Integration of Infinity: A Design Workshop Experience with Generative Artificial Intelligence**  
   Aslan, F., Bayraktaroğlu S. Beykoz Üniversitesi 2. Disiplinlerarası Sanat, Tasarım ve Sosyal Bilimler Uluslararası Sempozyumu, İstanbul, May 2024.
 
+- **Analysis of Platforms Facilitating the Reuse of Discarded Clothing in Istanbul and Users’ Donation Motivations**  
+  Bayraktaroğlu, S., Çiftçi S. Ö. 6th International Symposium on Human, Social and Sustainable Development Research, Tunis, 2-5 May 2023, pp. 97
+  
+- **Introducing systems thinking in undergraduate industrial design education**  
+  Bayraktaroğlu, S. 10th International Conference on Business, Technology and Innovation 2022, Pristine, Kosovo, 29–30 October 2022, pp.76.
+
 - **Identifying the Contribution of Design to Safeguarding Intangible Cultural Heritage: A Systematic Literature Review**  
   Bayraktaroğlu, S. 10th International Conference on Business, Technology and Innovation 2021, Pristine, Kosovo, 29–30 October 2021, pp.331.
 
