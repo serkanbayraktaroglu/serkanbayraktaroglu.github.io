@@ -50,7 +50,7 @@ Looking ahead, I plan to deepen my research in the following areas:
 
 I continue to explore opportunities for participatory design processes, especially involving vulnerable user groups, and aim to incorporate emerging technologies like AI in design education and research.
 
-![image](https://github.com/user-attachments/assets/338bb38f-17a3-4ec9-97ed-dbb4e0038882)
+
 
 
 <nbsp>
