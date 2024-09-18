@@ -1,5 +1,5 @@
 ---
-permalink: /engagements/
+permalink: /talks/
 title: "Professional Activities and Contributions"
 
 header:
