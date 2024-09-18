@@ -1,6 +1,6 @@
 ---
-permalink: /Engagements/
-title: "Talks, Workshops and Exhibitions"
+permalink: /engagements/
+title: "Professional Activities and Contributions"
 
 header:
   og_image: "software/spatial_weighting.png"
