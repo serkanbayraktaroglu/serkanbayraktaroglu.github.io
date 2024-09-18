@@ -1,5 +1,5 @@
 ---
-permalink: /engagements/
+permalink: /Engagements/
 title: "Professional Activities and Contributions"
 
 header:
