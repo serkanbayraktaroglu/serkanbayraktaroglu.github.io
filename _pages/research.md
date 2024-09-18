@@ -23,7 +23,7 @@ More recently, my focus has shifted to the **circular economy** and the role of 
 
 **Ongoing Projects**
 - "Circular Design Awareness and Applications in the Furniture Industry" (2023 - Ongoing), funded by Bilgi University (TR). This project explores opportunities and challenges for circular economy transition in Türkiye's furniture industry. Initial findings were published as an article titled **"Circular Economy Awareness And Motivations in the Furniture Industry: İnegöl As A Microcosm Of Global South Dynamics"**
-- My current research includes studying **design for repair** as a strategy for the circular economy, including DIY repair practices and "speculative design" for future repair scenarios in collaboration with a colleague from Lucerne University, Switzerland. Our initial findings were presented in July 2024 at **By Design and By Disaster Conference** - Bolsano University, Italy. 
+- My current research includes studying **design for repair** as a strategy for the circular economy, including DIY repair practices and "speculative design" for future repair scenarios in collaboration with a colleague from Lucerne University, Switzerland. Our initial findings were presented in July 2024 at **By Design and By Disaster Conference** - Free Unievrsity of Bozen, Italy. 
 
 ### 2. (Eco)Social Innovation
 
