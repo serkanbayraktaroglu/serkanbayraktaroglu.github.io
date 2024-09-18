@@ -238,10 +238,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _engagements
   - scope:
       path: ""
-      type: talks
+      type: engagements
     values:
       layout: talk
       author_profile: true
