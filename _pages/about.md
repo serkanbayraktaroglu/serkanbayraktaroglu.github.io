@@ -15,7 +15,6 @@ I hold an undergraduate degree in **Industrial Engineering** and completed a dua
 Since 2010, I have taught a wide range of **undergraduate and graduate courses** on product, service, and systems design. My teaching experience includes coordinating **sustainability-themed product design studios** at various levels, often in collaboration with industrial and social organizations. I have developed and delivered courses in areas such as **strategic design, sustainability in design, design innovation and product development, design research, materials and manufacturing techniques, systems thinking in design,** and **design for social innovation**.
 
 ### Key achievements:
-- In 2020, I worked at İstanbul University on establishing the *Industrial Design* undergraduate program which accepted its first students at 2023.
 - In 2018, I coordinated the establishment of the [*City and Children Studies MA*](https://city-and-children-studies.tumblr.com/) program at **Kadir Has University**, in collaboration with national and international partners, including the **Bernard van Leer Foundation, Superpool Architecture,** and **local municipalities of Istanbul**.
 - From 2016 to 2020, I led the **Design for Social Innovation** and **Strategic Design** tracks in the **Design MA** program.
 - Since 2020, I have been at **Istanbul University** the oldest and largest public university in Türkiye, where I contributed to the establishment of the [Industrial Design undergraduate program](https://mimarlik.istanbul.edu.tr/en/), which welcomed its first cohort in 2023.
