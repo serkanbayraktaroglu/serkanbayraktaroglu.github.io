@@ -55,7 +55,7 @@ author_profile: true
 - **Responding to the Industry’s Request for Design Knowledge: Reflections of a Private Educational Initiative from Turkey**  
   Coşkun Orlandi A. E., Bayraktaroğlu S. In *Pioneering Minds Worldwide: On the Entrepreneurial Principles of the Cultural and Creative Industries*, GIEP Hagoort, Aukje Thomassen, Rene Kooyman, Editors, Eburon Publishers, 2012. ISBN:9789059726192. [pdf](/files/pdf/A2/A.2.3_PioneeringMinds.pdf)
 
-## Proceedings
+## Conference Papers
 
 - **Integration of Infinity: A Design Workshop Experience with Generative Artificial Intelligence**  
   Aslan, F., Bayraktaroğlu S. Beykoz Üniversitesi 2. Disiplinlerarası Sanat, Tasarım ve Sosyal Bilimler Uluslararası Sempozyumu, İstanbul, May 2024.
