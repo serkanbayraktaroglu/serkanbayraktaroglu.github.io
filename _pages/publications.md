@@ -73,7 +73,7 @@ author_profile: true
   Bayraktaroğlu, S. 9th International Conference on Business, Technology and Innovation 2020, Pristine, Kosovo, 30–31 October 2020, pp.251.
 
 - **Design for Repair as a Strategy to Foster Sustainable User Behavior: A Case of Undergraduate Product Design Studio**  
-  Bayraktaroğlu S. 8th International Conference on Business, Technology and Innovation, Pristine, Kosovo, 26–28 October 2019, pp.64–68. [pdf](/files/pdf/A1/A11a.1 Design for Repair.pdf)
+  Bayraktaroğlu S. 8th International Conference on Business, Technology and Innovation, Pristine, Kosovo, 26–28 October 2019, pp.64–68.
 
 - **Social Aspects of Terrorism and Human Behavior: Form Follows Fear in Design**  
   Narter Ç., Bayraktaroğlu S. (2015). 4th International Conference on Conflict, Terror and Society, 20–21 April.
