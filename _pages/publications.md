@@ -73,7 +73,7 @@ author_profile: true
   Bayraktaroğlu, S. 9th International Conference on Business, Technology and Innovation 2020, Pristine, Kosovo, 30–31 October 2020, pp.251.
 
 - **Design for Repair as a Strategy to Foster Sustainable User Behavior: A Case of Undergraduate Product Design Studio**  
-  Bayraktaroğlu S. 8th International Conference on Business, Technology and Innovation, Pristine, Kosovo, 26–28 October 2019, pp.64–68.
+  Bayraktaroğlu S. 8th International Conference on Business, Technology and Innovation, Pristine, Kosovo, 26–28 October 2019, pp.64–68. [pdf](/files/pdf/A1/A11a.1 Design for Repair.pdf)
 
 - **Social Aspects of Terrorism and Human Behavior: Form Follows Fear in Design**  
   Narter Ç., Bayraktaroğlu S. (2015). 4th International Conference on Conflict, Terror and Society, 20–21 April.
@@ -82,7 +82,7 @@ author_profile: true
   Narter Ç., Bayraktaroğlu S. (2012). Green Age Symposium II, 542–549.
 
 - **Engaging Strategic Design in Undergraduate Design Education: A Case Study in Şişhane, Istanbul**  
-  Bayraktaroğlu S., Özkaynak M. (2011). International Symposium on Sustainable Design III, 27–35.
+  Bayraktaroğlu S., Özkaynak M. (2011). International Symposium on Sustainable Design III, 27–35. [pdf](/files/pdf/A1/A11a.3 ISSD0004.pdf)
 
  - **Overcoming barriers to adopt Product Service Systems PSS.**
-   Bayraktaroğlu S., Bayazıt N. (2010). LeNS Conference: Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century., 2, 1234-1241.
+   Bayraktaroğlu S., Bayazıt N. (2010). LeNS Conference: Sustainability in Design: Now! Challenges and Opportunities for Design Research, Education and Practice in the XXI Century., 2, 1234-1241. [pdf](/files/pdf/A1/A11a.5 Overcoming barriers PSS.pdf)
