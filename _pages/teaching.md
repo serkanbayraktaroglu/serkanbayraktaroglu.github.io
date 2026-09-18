@@ -1,11 +1,9 @@
-
-
-
-
-⸻
-
+---
 permalink: /teaching/
-title: “Teaching”
+title: "Teaching"
+---
+
+
 
 My teaching focuses on systems-oriented, research-driven and socially engaged industrial design. Since 2010, I have taught design studios, research and theory courses at undergraduate and graduate levels, with particular emphasis on sustainability, systems thinking, design research, strategic design and social innovation.
 
