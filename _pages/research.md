@@ -46,7 +46,7 @@ My ongoing research on the Turkish furniture industry investigates the barriers 
 **Ongoing project**
 
 **Circular Design Awareness and Applications in the Furniture Industry**  
-2023–ongoing
+2023–2025
 
 The project investigates circular-economy awareness, motivations, barriers, and transition opportunities within the furniture industry.
 
