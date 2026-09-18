@@ -1,59 +1,161 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
 
-## Research Interests
+## Research programme
 
-My research explores the dynamic intersections between design, innovation, and sustainability, with a strong emphasis on social impact and education. I am committed to advancing our understanding of how design can address pressing societal and environmental challenges. My work spans several key areas:
+My research investigates how design can contribute to **societal and industrial transitions toward sustainability**, with a particular focus on **circular economy, systems thinking, user behaviour, and strategic intervention**.
 
-## Research Themes
+I approach design not only as the development of individual products or services, but as a way of understanding and intervening in the wider systems in which they operate. My work therefore moves across different scales: from interactions between users and products, to organisational relationships, industry ecosystems, and broader societal systems.
 
-### 1. Sustainability and Circular Economy
+My current research programme is developing around the question:
 
-My early research centered on **rural development** and sustainability, with a focus on exploring craft practices, **business models**, and **rural innovation**. During my Ph.D., I conducted a six-month field study in rural India, guided by experts like Prof. M.P. Ranjan (NID) and Prof. Anil Gupta (IIM). This investigation examined the impact of design interventions on rural development, highlighting the evolving role of design in social innovation and rural entrepreneurship. Outcomes of the thesis partly published in a book chapter covering actors of rural innovation [pdf](/files/pdf/A1/A2.1_ACTORS.pdf).
+> **How can designers understand complex societal systems and develop, test, and evaluate strategic interventions for sustainability transitions?**
 
-I have long been interested in sustainable Product-Service Systems (PSS). My first conference proceeding explored opportunities and challenges for sustainable PSS in Türkiye through a case study of a local carpet producer [pdf](/files/pdf/A1/A11a.5_Overcoming_Barriers_PSS.pdf). In my teaching, I encourage students to adopt PSS thinking for sustainable design. I’ve also developed courses such as "Strategic Design" at Kadir Has University, which focus on systemic urban interventions through PSS.
+Within this programme, I am increasingly interested in how **AI may augment systems-oriented design**, particularly in exploring relationships and patterns, identifying potential leverage points, generating intervention alternatives, and examining their possible consequences.
 
-More recently, my focus has shifted to the **circular economy** and the role of design in repair and upgrade. I am particularly interested in how DIY repair can strengthen the product-user relationship and brand identity, and how **circular business models** can integrate repair as a value co-creation method. My recent publication, **Redefining Repair as a Value Co-Creation Process for Circular Economy: Facilitated Do-It-Yourself Repair** [pdf](/files/pdf/A1/IJDES.pdf), examines innovative repair strategies that align with circular economy principles. Additionally, my forthcoming book chapter, *New Product Development Strategies for Societal Welfare: Circular Economy Perspective*, delves into design strategies that enhance societal well-being through circular practices.
+---
 
-**Ongoing Projects**
-- "Circular Design Awareness and Applications in the Furniture Industry" (2023 - Ongoing), funded by Bilgi University (TR). This project explores opportunities and challenges for circular economy transition in Türkiye's furniture industry. Initial findings were published as an article titled **"Circular Economy Awareness And Motivations in the Furniture Industry: İnegöl As A Microcosm Of Global South Dynamics"[pdf](/files/pdf/A1/MAMAD24.pdf)**
-- My current research includes studying **design for repair** as a strategy for the circular economy, including DIY repair practices and "speculative design" for future repair scenarios in collaboration with a colleague from Lucerne University, Switzerland. Our initial findings were presented in July 2024 at **By Design and By Disaster Conference** - Free Unievrsity of Bozen, Italy. 
+## Current research areas
 
-### 2. (Eco)Social Innovation and Urban
+### 1. Circular product design, repair & product-life extension
 
-My work in design for social innovation focuses on leveraging design to address social challenges, particularly in rural contexts. In *Bridging Roles of Social Innovations in Rural Development: Craft Initiatives from Kutch, India* [pdf](/files/pdf/A1/A1.1_DRARCH.pdf), I explore how craft initiatives contribute to rural development and social resilience. This research builds on my Ph.D. thesis, *Investigating Design for Social Innovation Through Business Models in Rural India*, which proposed a model for fostering social innovation in developing countries. My article *Eco-social Innovation in the Context of Urban Sustainability* (in Turkish) is accepted for publication as a book chapter in 2024.
+A central strand of my research examines how design can extend product lifetimes through **repair, upgrade, reuse, and greater user participation**.
 
-- **Supervision Committee**: "Social Innovation Ecosystems in Sustainable Rural Development" (Ongoing Ph.D. project), Istanbul Technical University.
-- I am actively engaged in international research projects and collaborations that explore urban sustainability transitions and the role of design in fostering eco-social innovation. **ENCODUS: Excellence in Eco-Social Design for Urban Sustainability Transition** (2023, Above Threshold). **HORIZON-WIDERA Twinning Project**, I worked as the coordinator with partner universites; HSLU - Switzerland, Bauhaus University - Germany, and Free Unievrsity of Bozen - Italy. 
+My work on facilitated do-it-yourself repair investigates repair as more than a technical activity. It considers how companies and users can jointly create value through repair and how repair may contribute to stronger product-user relationships, product longevity, and circular business practices.
 
+**Selected publication**
 
+Bayraktaroğlu, S. & İdemen, E. (2024). *Redefining Repair as a Value Co-Creation Process for Circular Economy: Facilitated Do-It-Yourself Repair.* **International Journal of Design, 18**(1), 1–22. [PDF](/files/pdf/A1/IJDES.pdf)
 
-### 3. Design Education
+Related work includes research on product upgrade, future repair scenarios, and the reuse of discarded products and clothing.
 
-I integrate my research findings into my teaching, particularly in courses related to sustainability, strategic design, and **systems thinking**. My lectures on Systems Thinking and Legal Design, along with workshops like the SubjectSpace – AI Experience Workshop, reflect my commitment to advancing design education through innovative methodologies and real-world applications. This approach is evident in the interdisciplinary Master’s program in City and Children Studies that I helped establish, blending academic and practical perspectives to address urban and societal challenges.
+---
 
-- **Thesis Supervision**: "Artificial Intelligence in the Creative Processes of Design" (MSc thesis, 2024), Istanbul University. Results from this research have been presented at a conference *(Integration of Infinity: A Design Workshop Experience with Generative AI)*, exploring the intersection of design and **artificial intelligence**. These findings are being prepared for publication.
+### 2. Systems-oriented design for circular transitions
 
+I study how designers can understand the relationships between **actors, organisations, behaviours, resources, and infrastructures** involved in sustainability transitions.
 
-### Future Research Directions
+My ongoing research on the Turkish furniture industry investigates the barriers and opportunities affecting the transition toward circular economy. The research combines manufacturer surveys, interviews, thematic analysis, and design workshops to examine both firm-level practices and wider ecosystem conditions.
 
-Looking ahead, I plan to deepen my research in the following areas:
-- **Design for Circular Economy and Product-Service Systems**
-- **Social Aspects of Sustainability Transitions in Urban Contexts**
-- **Leveraging Design Education for Future Sustainability Challenges**
+**Ongoing project**
 
-I continue to explore opportunities for participatory design processes, especially involving vulnerable user groups, and aim to incorporate emerging technologies like AI in design education and research.
+**Circular Design Awareness and Applications in the Furniture Industry**  
+2023–ongoing
 
+The project investigates circular-economy awareness, motivations, barriers, and transition opportunities within the furniture industry.
 
+**Selected publication**
 
+Bayraktaroğlu, S. & Soylu, H. Y. (2024). *Circular Economy Awareness and Motivations in the Furniture Industry: İnegöl as a Microcosm of Global South Dynamics.* **Mobilya ve Ahşap Malzeme Araştırmaları Dergisi, 7**(1), 38–53. [PDF](/files/pdf/A1/MAMAD24.pdf)
 
-<nbsp>
+This strand of my work increasingly focuses on **system mapping, stakeholder relationships, circular business ecosystems, and the identification of strategic intervention opportunities**.
+
+---
+
+### 3. Circular design competencies & design education
+
+Another strand of my research explores the capabilities designers need in order to work effectively with circularity and complex sustainability problems.
+
+Rather than treating circular design as a collection of isolated strategies, I am interested in how designers combine **systems thinking, recovery strategies, materials and manufacturing knowledge, contextual understanding, and engagement with business ecosystems**.
+
+**Selected publication**
+
+Bayraktaroğlu, S. & Soylu, Y. (2026). *Exploring circular design competencies in undergraduate education: the case of an interdisciplinary course and industry engagement.* **International Journal of Sustainability in Higher Education, 27**(7), 1829–1845. [DOI](https://doi.org/10.1108/IJSHE-08-2025-0956)
+
+My teaching and research are closely connected in this area. Design studios and sustainability courses often provide settings for experimenting with systems mapping, circular design strategies, industry engagement, and new research and learning methods.
+
+---
+
+### 4. AI-augmented systems design
+
+I am developing an emerging research direction concerned with the role of **artificial intelligence in systems-oriented and strategic design**.
+
+My interest is not primarily in AI as a tool for generating product form. Instead, I am exploring its potential to support designers in:
+
+- examining complex bodies of qualitative and systemic information,
+- revealing relationships and patterns,
+- constructing and interpreting system representations,
+- identifying possible leverage points,
+- generating alternative interventions,
+- and comparing possible consequences before implementation.
+
+This work builds on my broader interest in design research methods, mapping, and intervention in complex systems.
+
+Previous work in this area includes MSc supervision on **Artificial Intelligence in the Creative Processes of Design**, as well as the *Integration of Infinity* generative-AI design workshop research.
+
+---
+
+## Research methods
+
+My research is primarily qualitative and mixed-method, and frequently involves working across academic, industry, and community contexts.
+
+Methods I use include:
+
+- semi-structured interviews and qualitative inquiry,
+- surveys and descriptive quantitative analysis,
+- thematic analysis and qualitative coding,
+- case-study research,
+- stakeholder and actor mapping,
+- system mapping,
+- workshops and co-design,
+- user research,
+- business-model analysis,
+- and the development and adaptation of design research tools.
+
+I have also developed and adapted methods for specific research contexts, including a **Talk-Aloud Disassembly** approach for investigating design and disassembly decisions, adaptations of the **Business Model Canvas**, and visual mapping methods for representing actors and relationships within complex systems.
+
+---
+
+## International research & collaboration
+
+I have participated in interdisciplinary and international research collaborations around circular economy, social innovation, sustainability, and design.
+
+### ENCODUS
+
+I coordinated **ENCODUS – Excellence in Eco-Social Design for Urban Sustainability Transition**, a Horizon Europe WIDERA Twinning proposal developed with international academic partners including **Lucerne University of Applied Sciences and Arts (HSLU)**, the **Free University of Bozen-Bolzano**, and **Bauhaus-Universität Weimar**.
+
+The proposal was evaluated **above threshold but was not funded**.
+
+Other international research experience includes doctoral field research in India, collaboration with Design Academy Eindhoven, and research and design activities involving institutions and industry partners in Türkiye and Europe.
+
+---
+
+## Foundations of my research
+
+My current research programme builds on earlier work in **social innovation, rural development, business models, and Product-Service Systems**.
+
+During my PhD, I conducted six months of field research in rural India examining the relationships among designers, craft communities, social enterprises, and other actors involved in rural innovation. This work led to a model examining the bridging roles of social innovation initiatives.
+
+**Selected publication**
+
+Bayraktaroğlu, S. (2020). *Bridging Roles of Social Innovations in Rural Development: Craft Initiatives from Kutch, India.* **Journal of Design for Resilience in Architecture and Planning, 1**(1), 103–118. [PDF](/files/pdf/A1/A1.1_DRARCH.pdf)
+
+This earlier work established themes that continue to shape my current research: **actor relationships, systemic representation, business models, collaborative intervention, and design for societal change**.
+
+---
+
+## Future direction
+
+My longer-term aim is to develop a research programme around:
+
+**Designing strategic interventions for complex societal systems.**
+
+I am particularly interested in four connected questions:
+
+1. How can designers develop credible representations of complex societal systems?
+2. How can alternative intervention opportunities be generated and compared?
+3. How can interventions be prototyped and tested before large-scale implementation?
+4. How can their effects be evaluated over time?
+
+Across these questions, I am exploring how AI-supported methods may strengthen designers' ability to work with complexity while maintaining critical, contextual, and human judgement.
+
+---
 
 {% include base_path %}
 
