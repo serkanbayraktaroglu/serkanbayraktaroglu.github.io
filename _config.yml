@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Serkan Bayraktaroğlu"
 title_separator          : "-"
 name                     : &name "Serkan Bayraktaroğlu"
-description              : &description "Systems-Oriented Design Researcher | Circular Design, Repair, Sustainability Transitions."
+description              : &description "Systems-Oriented Design Researcher | Circular Design, Repair, Sustainability Transitions"
 url                      : https://serkanbayraktaroglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serkanbayraktaroglu/serkanbayraktaroglu.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Serkan Bayraktaroğlu"
   avatar           : "profile.png"
-  bio              : "Systems-Oriented Design Researcher | Assistant Professor of Industrial Design".
+  bio              : "Systems-Oriented Design Researcher | Assistant Professor of Industrial Design"
   location         :
   employer         :
   pubmed           :
