@@ -13,7 +13,7 @@ My research investigates how design can contribute to **societal and industrial 
 
 I approach design not only as the development of individual products or services, but as a way of understanding and intervening in the wider systems in which they operate. My work therefore moves across different scales: from interactions between users and products, to organisational relationships, industry ecosystems, and broader societal systems.
 
-My current research programme is developing around the question:
+My current research programme is developing around the question: 
 
 > **How can designers understand complex societal systems and develop, test, and evaluate strategic interventions for sustainability transitions?**
 
